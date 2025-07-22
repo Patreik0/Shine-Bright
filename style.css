@@ -514,3 +514,19 @@ h1 {
     display: block;
     margin-bottom: 10px;
 }
+
+.footer {
+    height: 50px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+}
+.footer p {
+    margin: 0;
+    font-family:inherit;
+    text-decoration: none;
+}
+.footer a {
+    text-decoration: none;
+    color: #000000;
+}
